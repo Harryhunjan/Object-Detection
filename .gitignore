@@ -1,4 +1,8 @@
+.venv/
+.venv - Copy/
 Project/.ipynb_checkpoints/
 Project/logs/
-Project/.venv/
-Project/.venv - Copy/
+__pycache__/
+*.pyc
+*.pt
+*.jpg
